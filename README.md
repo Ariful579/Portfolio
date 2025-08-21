@@ -79,14 +79,6 @@ This portfolio highlights my key projects in **Data Analytics, Business Intellig
 
 ---
 
-## 🛠️ Other Work
-
-- **ml_Project** → General ML experiments and practice notebooks.  
-  [Repo](https://github.com/Ariful579/ml_Project)  
-
-
----
-
 ## 🌐 Connect with Me
 - 💼 [LinkedIn](www.linkedin.com/in/ariful-mondal-a7aa50349)
 - 📂 [GitHub](https://github.com/Ariful579)  
