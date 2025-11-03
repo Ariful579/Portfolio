@@ -56,12 +56,6 @@ This portfolio highlights my key projects in **Data Analytics, Business Intellig
 - **Impact:** Achieved **R² score of 0.92**, showing strong predictive performance.  
 - **Repo:** [Gold-Price-Prediction-Using-Random-Forest-Regressor](https://github.com/Ariful579/Gold-Price-Prediction-Using-Random-Forest-Regressor)  
 
----
-
-### 🔹 ANN Classification Project
-- **Tools:** ANN, Python, TensorFlow  
-- **Highlights:** Implemented Artificial Neural Networks for classification tasks.  
-- **Repo:** [ANN-Classification-Project](https://github.com/Ariful579/ANN-Classification-Project)  
 
 ---
 
@@ -70,12 +64,6 @@ This portfolio highlights my key projects in **Data Analytics, Business Intellig
 - **Highlights:** Showcased preprocessing techniques including scaling, encoding, and pipeline creation.  
 - **Repo:** [Feature-Engineering-Project](https://github.com/Ariful579/Feature-Engineering-Project)  
 
----
-
-### 🔹 Machine Learning Pipelines Practical
-- **Tools:** Python, Scikit-learn Pipelines  
-- **Highlights:** Demonstrated modular ML workflows with feature engineering + model training.  
-- **Repo:** [Machine-learning-pipelines-practical](https://github.com/Ariful579/Machine-learning-pipelines-practical)  
 
 ---
 
