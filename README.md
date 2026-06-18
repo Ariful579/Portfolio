@@ -2,6 +2,7 @@
 > *Leveraging Deep Learning and Predictive Analytics to solve complex classification and regression challenges.*
 
 [**LinkedIn**](https://www.linkedin.com/in/ariful-mondal-a7aa50349) | [**GitHub**](https://github.com/Ariful579) | **Email:** arifulmondal4082001@gmail.com
+** Website:**https://ariful579.github.io
 
 ---
 
@@ -17,15 +18,42 @@
 
 ---
 
-## 🤖 Featured Machine Learning & Deep Learning Projects
+## 🤖 Data Science & Deep Learning Projects
 
-... [Keep your existing Gold Price, Sonar, Breast Cancer, Diabetes, Heart Disease, and Feature Engineering projects here] ...
+### 🔹 Gold Price Prediction System
+* **Performance:** Achieved a high-accuracy **R² score of 0.92** in forecasting asset valuations.
+* **Stack:** Python, Scikit-learn (Random Forest Regressor), Pandas, NumPy.
+* **Repo:** [Gold-Price-Prediction-Using-Random-Forest-Regressor](https://github.com/Ariful579/Gold-Price-Prediction-Using-Random-Forest-Regressor)
 
-### 🔹 Intelligent Python-Based Voice Assistant
-* **Goal:** Developed a hands-free modular script capable of automated voice command processing, local system execution, and speech-to-text translation.
-* **Stack:** Python, SpeechRecognition, Pyttsx3, OS Automation libraries.
-* **Repo:** [Python-Voice-Assistant](https://github.com/Ariful579/Python-Voice-Assistant)
+### 🔹 Sonar Rock vs. Mine Classification
+* **Performance:** **85% Accuracy** in high-frequency acoustic signal categorization.
+* **Stack:** TensorFlow, Keras (ANN), NumPy, Pandas, Scikit-learn.
+* **Repo:** [Sonar-Rock-vs-Mine-Prediction](https://github.com/Ariful579/Sonar-Rock-vs-Mine-Prediction)
 
+### 🔹 Deep Learning ANN Classification
+* **Goal:** Engineered an Artificial Neural Network architecture optimized for multi-feature binary classification challenges.
+* **Stack:** TensorFlow, Keras, Scikit-learn, Pandas, Matplotlib.
+* **Repo:** [ANN-Classification-Project](https://github.com/Ariful579/ANN-Classification-Project)
+
+### 🔹 Diabetes Prediction System
+* **Goal:** Built a predictive modeling pipeline using key medical clinical indicators (Glucose, BMI, Age, etc.) to assess and identify diabetic risk factors.
+* **Stack:** Scikit-learn (SVM / Random Forest), Pandas, NumPy, Joblib for model serialization.
+* **Repo:** [diabetes_prediction](https://github.com/Ariful579/diabetes_prediction)
+
+### 🔹 Heart Disease Prediction
+* **Goal:** Developed a binary classification pipeline using clinical features like cholesterol, blood pressure, and max heart rate to assess cardiovascular risk.
+* **Stack:** Scikit-learn (Logistic Regression), Matplotlib, Seaborn, Pandas, NumPy.
+* **Repo:** [Heart_disease_prediction](https://github.com/Ariful579/Heart_disease_prediction)
+
+### 🔹 Advanced Feature Engineering Framework
+* **Focus:** Implementation of data preprocessing pipelines, feature scaling, encoding mechanics, and automated transformation logic.
+* **Stack:** Python, Pandas, NumPy, Scikit-learn.
+* **Repo:** [Feature-Engineering-Project](https://github.com/Ariful579/Feature-Engineering-Project)
+
+### 🔹 Practical Machine Learning Pipelines
+* **Focus:** End-to-end deployment workflows connecting raw data ingestion, feature extraction, model tuning, and evaluation cycles.
+* **Stack:** Scikit-learn, Python, Pandas, Joblib.
+* **Repo:** [Machine-learning-pipelines-practical](https://github.com/Ariful579/Machine-learning-pipelines-practical)
 ---
 
 ## 📊 Data Analytics & Business Insights
@@ -68,9 +96,20 @@
 
 ---
 
-## 🎓 Education & Certifications
-* **Academic:** B.A. (Honours) Economics – IGNOU (First Year).
-* **Technical Certifications:** Microsoft Learn MD-102 (Endpoint Administrator) | ServiceNow Associate System Admin & Flow Designer Credentials.
+## 🎓 Education & Credentials
+
+### 🔹 Academic Foundation
+* **B.A. (Honours) Economics** – IGNOU (First Year)
+
+### 🔹 Professional Industry Simulations
+* **Data Science Job Simulation** – BCGX (Practical training in EDA, feature engineering, modeling, and business recommendations)
+* **Data Analytics Job Simulation** – Quantium (Data preparation, customer analytics, experimentation, and uplift testing)
+
+### 🔹 Technical Certifications & Learning Paths
+* **Exploratory Data Analysis for Machine Learning** – IBM & Coursera
+* **Advanced Level Excel Certification** – Learnit Training (Cursa Platform)
+* **Endpoint Administrator (MD-102)** – Microsoft Learn
+* **Associate System Admin & Flow Designer Badges** – ServiceNow University
 
 ---
 
