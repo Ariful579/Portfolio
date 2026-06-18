@@ -2,7 +2,7 @@
 > *Leveraging Deep Learning and Predictive Analytics to solve complex classification and regression challenges.*
 
 [**LinkedIn**](https://www.linkedin.com/in/ariful-mondal-a7aa50349) | [**GitHub**](https://github.com/Ariful579) | **Email:** arifulmondal4082001@gmail.com
-** Website:**https://ariful579.github.io
+**Email:** https://ariful579.github.io
 
 ---
 
