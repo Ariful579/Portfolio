@@ -20,7 +20,7 @@
 
 ## 📊 Data Analytics & Business Insights
 
-### 🔹 Customer Shopping Behavior Analysis (End-to-End BI Pipeline)
+### 🔹 Customer Shopping Behavior Analysis
 * **Impact:** Designed an end-to-end data architecture to analyze consumer purchasing trends across 3,900 transacting accounts, capturing $233.08K in total revenue. Engineered a Python-to-MySQL pipeline for data ingestion, staging, and structured query execution. Delivered an interactive Power BI dashboard isolating critical margins: mapped a 2:1 male-to-female revenue distribution ($157.8K vs $75.1K), proved Clothing & Accessories command over 76% of total revenue ($178.4K), and identified that promotional discounts were flat-lining average order values (~$59)[cite: 4], leading to strategic minimum-spend trigger recommendations[cite: 4].
 * **Stack:** Python (Pandas, SQLAlchemy),MySQL, Power BI Enterprise[cite: 4].
 * **Repo:** [Customer-Shopping-Behavior-Analysis](https://github.com/Ariful579/Customer-Shopping-Behavior-Analysis)
