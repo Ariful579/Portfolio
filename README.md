@@ -20,11 +20,20 @@
 
 ## 📊 Data Analytics & Business Insights
 
+### 🔹 Business Revenue & Sales Analytics (Power BI)
+* **Impact:** Developed a comprehensive sales intelligence dashboard tracking ₹984.81M in gross revenue across 5 distinct regional markets (Delhi NCR, Mumbai, Ahmedabad, Bengaluru, Chennai) spanning 38 corporate clients. Architected a star-schema data model mapping transaction dynamics across 279K line items to isolate key execution bottlenecks. Identified that while Delhi NCR drives peak volume (52.8% of total quantity), Bengaluru delivers the highest average profitability margin per unit. Uncovered a 10.4% market drag caused by a specific legacy customer entity ("Electricalsara Stores") under-indexing in margin performance, leading to data-backed recommendations for localized distribution strategies.
+* **Stack:** Power BI Desktop, DAX (Data Analysis Expressions), Power Query, MySQL.
+* **Repo:** [Sales-Insights-Power-BI-Dashboard](https://github.com/Ariful579/Sales-Insights-Power-BI-Dashboard)
+
+### 🔹 Voice Assistant System (Python & Generative AI)
+* **Impact:** Engineered an intelligent local automation agent integrating advanced Natural Language Processing (NLP) and Speech-to-Text pipelines. Programmed a responsive interaction loop mapping continuous audio streams into structured tasks, enabling seamless system commands, automated web queries, and application launching. Designed modular API wrappers to support future integration with LangChain orchestration patterns and Hugging Face transformer models for sophisticated contextual reasoning.
+* **Stack:** Python, SpeechRecognition, Pyttsx3, Webbrowser, OS / Subprocess Automations.
+* **Repo:** [Voice-Assistant-Project](https://github.com/Ariful579/Voice-Assistant-Project)
+
 ### 🔹 Customer Shopping Behavior Analysis
 * **Impact:** Designed an end-to-end data architecture to analyze consumer purchasing trends across 3,900 transacting accounts, capturing $233.08K in total revenue. Engineered a Python-to-MySQL pipeline for data ingestion, staging, and structured query execution. Delivered an interactive Power BI dashboard isolating critical margins: mapped a 2:1 male-to-female revenue distribution ($157.8K vs $75.1K), proved Clothing & Accessories command over 76% of total revenue ($178.4K), and identified that promotional discounts were flat-lining average order values (~$59), leading to strategic minimum-spend trigger recommendations.
-* **Stack:** Python (Pandas, SQLAlchemy),MySQL, Power BI Enterprise.
+* **Stack:** Python (Pandas, SQLAlchemy), MySQL, Power BI Enterprise.
 * **Repo:** [Customer-Shopping-Behavior-Analysis](https://github.com/Ariful579/Customer-Shopping-Behavior-Analysis)
-
 
 ### 🔹 Telecom Customer Churn Analysis Dashboard & Report
 * **Impact:** Engineered an interactive corporate analytical app with multi-slicer functionality to track a 26.53% portfolio churn rate. Isolated a $2.86M absolute revenue leakage and diagnosed an early-lifecycle risk corridor (10-month median lifespan vs. 18-month average).
@@ -57,8 +66,6 @@
 * **Repo:** [ServiceNow-Leave-Management](https://github.com/Ariful579/ServiceNow-Leave-Management)
 
 ---
-
-
 
 ## 🤖 Data Science & Deep Learning Projects
 
@@ -97,7 +104,6 @@
 * **Stack:** Scikit-learn, Python, Pandas, Joblib.
 * **Repo:** [Machine-learning-pipelines-practical](https://github.com/Ariful579/Machine-learning-pipelines-practical)
 ---
-
 
 ## 🎓 Education & Credentials
 
