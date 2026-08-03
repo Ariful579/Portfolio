@@ -32,7 +32,7 @@
 
 **Stack:** Power BI Desktop, DAX, Power Query.
 
-**Repo:** [Jewellery-Revenue-and-Performance-Report](https://github.com/Ariful579/) <!-- TODO: add exact repo link -->
+**Repo:** [Jewellery-Revenue-and-Performance-Report (https://github.com/Ariful579/Jewellary-revenue-and-performance-report)]
 
 ### 🔹 Customer Segmentation & Marketing Analytics
 **Impact:** Developed an end-to-end customer churn and retention analytics framework to isolate key execution bottlenecks and programmatically map customer lifecycles. Built an interactive data application using Python data manipulation and advanced feature engineering to track sales funnel drop-off points, allowing stakeholders to isolate high-risk customer clusters. Translated complex behavioral metrics into actionable marketing strategies, providing data-backed recommendations for targeted retention campaigns.
