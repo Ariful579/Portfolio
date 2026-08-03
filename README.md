@@ -27,6 +27,13 @@
 
 **Repo:** [Sales-Insights-Power-BI-Dashboar (https://github.com/Ariful579/Revenue-Analysis-Dashboard)]
 
+### 🔹 Jewellery Revenue & Marketing ROI Analysis (Power BI)
+**Impact:** Built a strategic revenue and marketing ROI dashboard for a jewellery retail brand (GIVA), tracking **₹12.11M in total revenue** generated across **942 paying customers**. Modeled customer lifetime value (CLV) and attribution dynamics to surface a critical **200-day average revenue-risk window (inactivity)** among historical buyers. Segmented the customer base via RFM-style valuation, finding **24.84% qualify as "Champions"** (core loyalists driving predictable recurring revenue) against a **21.34% "Hibernating/Lost"** cohort representing significant revenue leakage — prompting a recommended automated win-back campaign. Mapped regional concentration (Maharashtra leading at ₹2.3M, followed by Gujarat at ₹1.6M, Rajasthan and Punjab at ₹1.0M each) and marketing channel attribution, identifying **Instagram as the top acquisition channel** (297 high-value customers, highest ROI), ahead of Google Ads (195), Influencer Marketing (159), and Organic Search (159).
+
+**Stack:** Power BI Desktop, DAX, Power Query.
+
+**Repo:** [Jewellery-Revenue-and-Performance-Report](https://github.com/Ariful579/) <!-- TODO: add exact repo link -->
+
 ### 🔹 Customer Segmentation & Marketing Analytics
 **Impact:** Developed an end-to-end customer churn and retention analytics framework to isolate key execution bottlenecks and programmatically map customer lifecycles. Built an interactive data application using Python data manipulation and advanced feature engineering to track sales funnel drop-off points, allowing stakeholders to isolate high-risk customer clusters. Translated complex behavioral metrics into actionable marketing strategies, providing data-backed recommendations for targeted retention campaigns.
 
@@ -35,17 +42,9 @@
 **Repo:** [Customer-Segmentation-and-Marketing-Analytics (https://github.com/Ariful579/Customer-segmentation)]
 
 ### 🔹 Customer Shopping Behavior Analysis
-**Impact:** Designed an end-to-end data architecture to analyze consumer purchasing trends across 3,900 transacting accounts, capturing $233.08K in total revenue. Engineered a Python-to-MySQL pipeline for data ingestion, staging, and structured query execution. Delivered an interactive Power BI dashboard isolating critical margins: mapped a 2:1 male-to-female revenue distribution ($157.8K vs $75.1K), proved Clothing & Accessories command over 76% of total revenue ($178.4K), and identified that promotional discounts were flat-lining average order values (~$59), leading to strategic minimum-spend trigger recommendations.
-
-**Stack:** Python (Pandas, SQLAlchemy), MySQL, Power BI Enterprise.
-
-**Repo:** Customer-Shopping-Behavior-Analysis
-
-### 🔹 Customer Shopping Behavior Analysis
 * **Impact:** Designed an end-to-end data architecture to analyze consumer purchasing trends across 3,900 transacting accounts, capturing $233.08K in total revenue. Engineered a Python-to-MySQL pipeline for data ingestion, staging, and structured query execution. Delivered an interactive Power BI dashboard isolating critical margins: mapped a 2:1 male-to-female revenue distribution ($157.8K vs $75.1K), proved Clothing & Accessories command over 76% of total revenue ($178.4K), and identified that promotional discounts were flat-lining average order values (~$59), leading to strategic minimum-spend trigger recommendations.
-* **Stack:** Python (Pandas, SQLAlchemy),MySQL, Power BI Enterprise.
+* **Stack:** Python (Pandas, SQLAlchemy), MySQL, Power BI Enterprise.
 * **Repo:** [Customer-Shopping-Behavior-Analysis](https://github.com/Ariful579/Customer-Shopping-Behavior-Analysis)
-
 
 ### 🔹 Telecom Customer Churn Analysis Dashboard & Report
 * **Impact:** Engineered an interactive corporate analytical app with multi-slicer functionality to track a 26.53% portfolio churn rate. Isolated a $2.86M absolute revenue leakage and diagnosed an early-lifecycle risk corridor (10-month median lifespan vs. 18-month average).
@@ -78,8 +77,6 @@
 * **Repo:** [ServiceNow-Leave-Management](https://github.com/Ariful579/ServiceNow-Leave-Management)
 
 ---
-
-
 
 ## 🤖 Data Science & Deep Learning Projects
 
@@ -117,8 +114,8 @@
 * **Focus:** End-to-end deployment workflows connecting raw data ingestion, feature extraction, model tuning, and evaluation cycles.
 * **Stack:** Scikit-learn, Python, Pandas, Joblib.
 * **Repo:** [Machine-learning-pipelines-practical](https://github.com/Ariful579/Machine-learning-pipelines-practical)
----
 
+---
 
 ## 🎓 Education & Credentials
 
