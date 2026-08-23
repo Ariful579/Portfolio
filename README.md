@@ -25,7 +25,7 @@
 
 **Stack:** Power BI Desktop, DAX (Data Analysis Expressions), Power Query, MySQL.
 
-**Repo:** [Sales-Insights-Power-BI-Dashboar (https://github.com/Ariful579/Revenue-Analysis-Dashboard)]
+**Repo:** (https://github.com/Ariful579/Revenue-Analysis-Dashboard)
 
 ### 🔹 Jewellery Revenue & Marketing ROI Analysis (Power BI)
 **Impact:** Built a strategic revenue and marketing ROI dashboard for a jewellery retail brand (GIVA), tracking **₹12.11M in total revenue** generated across **942 paying customers**. Modeled customer lifetime value (CLV) and attribution dynamics to surface a critical **200-day average revenue-risk window (inactivity)** among historical buyers. Segmented the customer base via RFM-style valuation, finding **24.84% qualify as "Champions"** (core loyalists driving predictable recurring revenue) against a **21.34% "Hibernating/Lost"** cohort representing significant revenue leakage — prompting a recommended automated win-back campaign. Mapped regional concentration (Maharashtra leading at ₹2.3M, followed by Gujarat at ₹1.6M, Rajasthan and Punjab at ₹1.0M each) and marketing channel attribution, identifying **Instagram as the top acquisition channel** (297 high-value customers, highest ROI), ahead of Google Ads (195), Influencer Marketing (159), and Organic Search (159).
