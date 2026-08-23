@@ -20,7 +20,7 @@
 
 ## 📊 Data Analytics & Business Insights
 
-### 🔹 Business Revenue & Sales Analytics (Power BI)
+### 🔹 Business Revenue & Sales Analytics Using Power BI
 **Impact**: Developed a comprehensive sales intelligence dashboard tracking ₹984.81M in gross revenue across 5 distinct regional markets (Delhi NCR, Mumbai, Ahmedabad, Bengaluru, Chennai) spanning 38 corporate clients. Architected a star-schema data model mapping transaction dynamics across 279K line items to isolate key execution bottlenecks. Identified that while Delhi NCR drives peak volume (52.8% of total quantity), Bengaluru delivers the highest average profitability margin per unit. Uncovered a 10.4% market drag caused by a specific legacy customer entity ("Electricalsara Stores") under-indexing in margin performance, leading to data-backed recommendations for localized distribution strategies.
 
 **Stack:** Power BI Desktop, DAX (Data Analysis Expressions), Power Query, MySQL.
